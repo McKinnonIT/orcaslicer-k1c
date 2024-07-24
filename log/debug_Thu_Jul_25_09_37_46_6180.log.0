@@ -1,0 +1,10 @@
+[warning]	2024-07-25 09:37:46.350666[Thread 0x00000001f9a0d500]:Failed to load to hints.cereal. File does not exists. /Users/Alastair Ling/Library/Application Support/OrcaSlicer/user/hints.cereal
+[error]	2024-07-25 09:37:46.587629[Thread 0x00000001f9a0d500]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-07-25 09:37:47.025752[Thread 0x00000001f9a0d500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 09:37:47.939498[Thread 0x00000001f9a0d500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 09:37:48.040968[Thread 0x00000001f9a0d500]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-07-25 09:37:48.183400[Thread 0x00000001f9a0d500]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-25 09:37:48.208584[Thread 0x00000001f9a0d500]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-25 09:37:57.576006[Thread 0x00000001f9a0d500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-07-25 09:37:57.582397[Thread 0x00000001f9a0d500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-07-25 09:39:59.989908[Thread 0x00000001f9a0d500]:calc_exclude_triangles:Unable to create exclude triangles

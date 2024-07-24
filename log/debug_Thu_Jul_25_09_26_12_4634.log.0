@@ -1,0 +1,4 @@
+[warning]	2024-07-25 09:26:12.802231[Thread 0x00000001f9a0d500]:Failed to load to hints.cereal. File does not exists. /Users/Alastair Ling/Library/Application Support/OrcaSlicer/user/hints.cereal
+[error]	2024-07-25 09:26:13.054902[Thread 0x00000001f9a0d500]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-07-25 09:26:13.493409[Thread 0x00000001f9a0d500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 09:26:14.372266[Thread 0x00000001f9a0d500]:calc_exclude_triangles:Unable to create exclude triangles
